@@ -1,0 +1,9 @@
+c:\users\kemo\documents\visual studio 2013\Projects\image-viewer\image-viewer\bin\Debug\image-viewer.exe.config
+c:\users\kemo\documents\visual studio 2013\Projects\image-viewer\image-viewer\bin\Debug\image-viewer.exe
+c:\users\kemo\documents\visual studio 2013\Projects\image-viewer\image-viewer\bin\Debug\image-viewer.pdb
+c:\users\kemo\documents\visual studio 2013\Projects\image-viewer\image-viewer\obj\Debug\image-viewer.csprojResolveAssemblyReference.cache
+c:\users\kemo\documents\visual studio 2013\Projects\image-viewer\image-viewer\obj\Debug\image_viewer.Form1.resources
+c:\users\kemo\documents\visual studio 2013\Projects\image-viewer\image-viewer\obj\Debug\image_viewer.Properties.Resources.resources
+c:\users\kemo\documents\visual studio 2013\Projects\image-viewer\image-viewer\obj\Debug\image-viewer.csproj.GenerateResource.Cache
+c:\users\kemo\documents\visual studio 2013\Projects\image-viewer\image-viewer\obj\Debug\image-viewer.exe
+c:\users\kemo\documents\visual studio 2013\Projects\image-viewer\image-viewer\obj\Debug\image-viewer.pdb
